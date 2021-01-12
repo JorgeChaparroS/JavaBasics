@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Jorge Chappppp
+Main-Class: Interfaz
+X-COMMENT: Curso de Java gracias a Ernestico
